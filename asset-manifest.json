@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/slot-machine/static/css/main.2392c420.css",
+    "main.js": "/slot-machine/static/js/main.bd1cfcab.js",
+    "index.html": "/slot-machine/index.html",
+    "main.2392c420.css.map": "/slot-machine/static/css/main.2392c420.css.map",
+    "main.bd1cfcab.js.map": "/slot-machine/static/js/main.bd1cfcab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2392c420.css",
+    "static/js/main.bd1cfcab.js"
+  ]
+}
